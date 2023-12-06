@@ -25,3 +25,8 @@ Total 40,000 different 28 x 28 grayscale images.
 ## Result 
 
 ![image](https://github.com/M1nhHoang/MLP_For_Classifier_Images/assets/106025710/ddcdb3fc-265a-45a6-9c61-9cfa2b1101e4)
+
+### [Kaggle compertitions](https://www.kaggle.com/competitions/mlp-competition-123-2/leaderboard)
+### [Final result](https://docs.google.com/spreadsheets/d/1q-2ltaBjoGufW0XxyljoMNXtRKogu-SZR0V123Up438/edit#gid=472643203)
+
+
