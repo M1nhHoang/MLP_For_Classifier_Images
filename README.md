@@ -18,7 +18,7 @@
 
 ## Dataset
 
-Total 40,000 different 28 x 28 grayscale images.  
+Total 42,000 different 28 x 28 grayscale images.  
 
 ![image](https://github.com/M1nhHoang/MLP_For_Classifier_Images/assets/106025710/45fff3a8-0774-46e4-8e9a-8dbc994bc15e)
 
